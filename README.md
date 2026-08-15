@@ -26,7 +26,7 @@ Using Verilog HDL, I designed a hardware-level solution to handle physical switc
 * 'FSM.v': Controls the state transitions (Next State Logic) and outputs (Output Logic) of the vending machine.
 
 ## State Diagram
-![State Diagram]<img width="1526" height="1493" alt="IMG_2215" src="https://github.com/user-attachments/assets/1ea64ec0-418f-47f4-995c-bdaf387e7535" />
+State Diagram <img width="1526" height="1493" alt="IMG_2215" src="https://github.com/user-attachments/assets/1ea64ec0-418f-47f4-995c-bdaf387e7535" />
 
 ## Simulation
 ![Test Input] <img width="1101" height="1428" alt="Test Input" src="https://github.com/user-attachments/assets/880e68fc-6a6a-4b15-b06d-0c4d7d198cdf" />
