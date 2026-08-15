@@ -29,8 +29,8 @@ Using Verilog HDL, I designed a hardware-level solution to handle physical switc
 ![State Diagram]<img width="1526" height="1493" alt="IMG_2215" src="https://github.com/user-attachments/assets/1ea64ec0-418f-47f4-995c-bdaf387e7535" />
 
 ## Simulation
-![Test Input]<img width="1101" height="1428" alt="Test Input" src="https://github.com/user-attachments/assets/880e68fc-6a6a-4b15-b06d-0c4d7d198cdf" />
+![Test Input] <img width="1101" height="1428" alt="Test Input" src="https://github.com/user-attachments/assets/880e68fc-6a6a-4b15-b06d-0c4d7d198cdf" />
 
-![Waveform]<img width="1536" height="864" alt="제목 없음" src="https://github.com/user-attachments/assets/67045b27-c4fe-4787-b5cf-ce3931abd823" />
+![Waveform] <img width="1536" height="864" alt="제목 없음" src="https://github.com/user-attachments/assets/67045b27-c4fe-4787-b5cf-ce3931abd823" />
 
 
