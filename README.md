@@ -20,10 +20,10 @@ Using Verilog HDL, I designed a hardware-level solution to handle physical switc
   * Scaled down the 125MHz main clock to create a timer logic that keeps the LEDs turned on for 0.5 seconds when a coin is accepted (Accept) and when a product is dispensed (Paid) for clear visual feedback.
  
 ## Module Structure
-* 'top.v': The top-level module (handles sub-module instantiation and LED timer logic).
-* 'debouncer.v': Eliminates bouncing using 2-stage Flip-Flop synchronization and a time-delay counter.
-* 'edge_detector.v': Detects the rising edge of the input signal to create a single-cycle pulse.
-* 'FSM.v': Controls the state transitions (Next State Logic) and outputs (Output Logic) of the vending machine.
+* `top.v`: The top-level module (handles sub-module instantiation and LED timer logic).
+* `debouncer.v`: Eliminates bouncing using 2-stage Flip-Flop synchronization and a time-delay counter.
+* `edge_detector.v`: Detects the rising edge of the input signal to create a single-cycle pulse.
+* `FSM.v`: Controls the state transitions (Next State Logic) and outputs (Output Logic) of the vending machine.
 
 ## State Diagram
 <img width="1526" height="1493" alt="IMG_2215" src="https://github.com/user-attachments/assets/1ea64ec0-418f-47f4-995c-bdaf387e7535" />
