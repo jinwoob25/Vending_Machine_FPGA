@@ -34,7 +34,7 @@ Using Verilog HDL, I designed a hardware-level solution to handle physical switc
 **Waveform** <img width="1536" height="864" alt="제목 없음" src="https://github.com/user-attachments/assets/67045b27-c4fe-4787-b5cf-ce3931abd823" />
 
 ## Demo
-
+<video src="Vending_Machine_Demo.mp4" controls width="100%"></video>
 
 
 
