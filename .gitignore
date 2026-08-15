@@ -1,0 +1,11 @@
+# Vivado 임시 파일 및 로그 무시
+*.jou
+*.log
+*.pb
+
+# Vivado 자동 생성 폴더 무시
+/.Xil/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
